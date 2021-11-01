@@ -1,0 +1,19 @@
+{
+  "name": "mixed_messages_codecademy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skeegan123/mixed-messages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skeegan123/mixed-messages/issues"
+  },
+  "homepage": "https://github.com/Skeegan123/mixed-messages#readme"
+}
